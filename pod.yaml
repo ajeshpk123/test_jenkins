@@ -7,7 +7,7 @@ metadata:
 spec:
   containers:
   - name: nginx
-    image: myawspk/myrepo:tagname
+    image: ajeshpk123/ajesh:latest
     imagePullPolicy: IfNotPresent
     ports:
     - containerPort: 80
